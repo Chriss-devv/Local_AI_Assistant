@@ -63,7 +63,7 @@ ollama pull mistral:latest
 
 ```bash
 # Clone repository
-git clone https://github.com/[your-username]/ai-assistant.git
+git clone https://github.com/Chriss-devv/ai-assistant.git
 cd ai-assistant
 
 # Install dependencies
